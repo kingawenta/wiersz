@@ -6,6 +6,7 @@ body{
   font-family: 'Oswald', sans-serif;
   font-size:20px;
   text-align: center;
+  background-color: grey;
 }
 p::first-letter{
   color:red;
